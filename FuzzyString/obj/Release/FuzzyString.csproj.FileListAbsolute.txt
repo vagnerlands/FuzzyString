@@ -1,0 +1,4 @@
+C:\Projects\FuzzyString\FuzzyString\bin\Release\FuzzyString.dll
+C:\Projects\FuzzyString\FuzzyString\bin\Release\FuzzyString.pdb
+C:\Projects\FuzzyString\FuzzyString\obj\Release\FuzzyString.dll
+C:\Projects\FuzzyString\FuzzyString\obj\Release\FuzzyString.pdb

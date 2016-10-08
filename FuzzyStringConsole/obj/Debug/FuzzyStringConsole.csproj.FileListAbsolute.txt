@@ -1,0 +1,8 @@
+C:\Projects\FuzzyString\FuzzyStringConsole\bin\Debug\FuzzyStringConsole.exe.config
+C:\Projects\FuzzyString\FuzzyStringConsole\bin\Debug\FuzzyStringConsole.exe
+C:\Projects\FuzzyString\FuzzyStringConsole\bin\Debug\FuzzyStringConsole.pdb
+C:\Projects\FuzzyString\FuzzyStringConsole\bin\Debug\FuzzyString.dll
+C:\Projects\FuzzyString\FuzzyStringConsole\bin\Debug\FuzzyString.pdb
+C:\Projects\FuzzyString\FuzzyStringConsole\obj\Debug\FuzzyStringConsole.csprojResolveAssemblyReference.cache
+C:\Projects\FuzzyString\FuzzyStringConsole\obj\Debug\FuzzyStringConsole.exe
+C:\Projects\FuzzyString\FuzzyStringConsole\obj\Debug\FuzzyStringConsole.pdb
